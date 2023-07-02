@@ -24,4 +24,4 @@
 - Возрастная группа;
 
 ## Используемые библиотеки
-*Tableau*, *PowerPoint Presentation*
+*Tableau Public*, *PowerPoint Presentation*
