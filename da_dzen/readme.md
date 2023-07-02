@@ -2,7 +2,7 @@
 
 ## Данные
 
-[Дашборд] построен на основе данных из таблицы dash_visits, следующей структуры:
+[Дашборд](https://public.tableau.com/app/profile/anastasiya.vtyurina/viz/dash_visits_16817242251730/Dashboard1?publish=yes) построен на основе данных из таблицы dash_visits, следующей структуры:
 - record_id — первичный ключ,
 - item_topic — тема карточки,
 - source_topic — тема источника,
